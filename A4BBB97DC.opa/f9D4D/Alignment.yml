@@ -1,0 +1,22 @@
+segment_sources:
+  I9239CF3A:
+    type: origin_type
+    relation: translation
+    language: en
+  I6FE68DDA:
+    type: origin_type
+    relation: translation
+    language: fr
+  IC42608CB:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  0684109b74b74f23a26756c43939b4da:
+    I9239CF3A: f3baca3537dd4decb262a2666892ec06
+    I6FE68DDA: 7a47fd003be348b9a835ada440055ee0
+    IC42608CB: 5412ec90ca664a6288a29ab49215c75a
+  54bfbb79c7554171a8de538b2f72247d:
+    I9239CF3A: bab9e04e61ea4b648dae6049157b565c
+    I6FE68DDA: 966772f8288e4608ba2c8bef4e9e7522
+    IC42608CB: 49f7549cbaca4a3daf9f246587082c5a
